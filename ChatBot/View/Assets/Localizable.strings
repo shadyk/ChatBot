@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ChatUser
+
+  Copyright © 2020 Shady Kahaleh. All rights reserved.
+*/
+"USER_EXISTS" = "User Already Exists. Please choose another name";
+"add" = "Add";
+"add_user" = "Add User";
+"user_name" = "User Name";
+"user_empty_name" = "Please add a name";
